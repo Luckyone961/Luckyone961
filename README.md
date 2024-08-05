@@ -3,13 +3,6 @@
 ***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyone961&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyone961&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150"/>
-</div>
-
-***
-
-<div align="center">
   <a href="https://discord.gg/xRY4bwA" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?label=&message=Discord&color=7289DA&style=for-the-badge&logo=Discord&logoColor=ffffff" height="28" alt="Discord"/>
   </a>
