@@ -1,27 +1,40 @@
-<h3 align="center">Welcome to my GitHub profile</h2>
+<h3>✨ Welcome to my GitHub profile ✨</h3>
 
-***
+---
 
-<div align="center">
-  <a href="https://discord.gg/xRY4bwA" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=7289DA&style=for-the-badge&logo=Discord&logoColor=ffffff" height="28" alt="Discord"/>
-  </a>
-  <a href="https://x.com/Luckyone961" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=gray&style=for-the-badge&logo=X&logoColor=ffffff" height="28" alt="Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/@LuckyoneWoW" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&style=for-the-badge&logo=YouTube&logoColor=ffffff" height="28" alt="YouTube"/>
-  </a>
-  <a href="https://www.twitch.tv/Luckyone1996" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitch&color=9146FF&style=for-the-badge&logo=Twitch&logoColor=ffffff" height="28" alt="Twitch"/>
-  </a>
-  <a href="https://patreon.com/Luckyone" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Patreon&color=f96854&style=for-the-badge&logo=Patreon&logoColor=ffffff" height="28" alt="Patreon"/>
-  </a>
-  <a href="https://streamlabs.com/Luckyone1996/tip" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Donate&color=blue&style=for-the-badge&logo=buymeacoffee&logoColor=ffffff" height="28" alt="Donate"/>
-  </a>
-  <a href="https://luckyone.dev" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=darkgreen&style=for-the-badge&logo=homepage&logoColor=ffffff" height="28" alt="Website"/>
-  </a>
-</div>
+<p>
+  Passionate about World of Warcraft UI design, content creation, and sharing what I build.
+</p>
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRY4bwA)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Luckyone961)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LuckyoneWoW)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Luckyone1996)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Luckyone)
+[![Donate](https://img.shields.io/badge/Donate-00B9FF?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://streamlabs.com/Luckyone1996/tip)
+[![Website](https://img.shields.io/badge/Website-1E8C3A?style=for-the-badge&logo=vercel&logoColor=white)](https://luckyone.dev)
+
+---
+
+### 📌 About Me
+
+- 🧙‍♂️ UI/UX Designer for World of Warcraft
+- 🎥 Creating guides, videos & helpful tools
+- 💬 Always happy to help on [Discord](https://discord.gg/xRY4bwA)
+
+### 📦 My Projects
+
+| Project | Description |
+|--------|-------------|
+| [LuckyoneUI](https://github.com/Luckyone961/LuckyoneUI) | ElvUI plugin and layout installer for minimalistic profiles |
+| [WeakAuras](https://wago.io/p/Luckyone) | A big pool of Class- and Utility WeakAuras for most WoW versions |
+| [ChatBubbleReplacements](https://github.com/Luckyone961/ChatBubbleReplacements) | Texture replacement for WoW chat bubbles (Works in protected areas such as Dungeons and Raids) |
+| [WoW Performance Optimization](https://github.com/tukui-org/ElvUI/wiki/performance-optimization) | Guides to improve general performance and FPS of your WoW and AddOns |
+| [WindowsChecklist](https://github.com/Luckyone961/WindowsChecklist) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
+| [Website](https://luckyone.dev) | Main showcase for my current user interface and quick access to all important links |
+
+---
+
+<p>
+  <sub>Built with ❤️ by Luckyone • Thanks for stopping by!</sub>
+</p>
