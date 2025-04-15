@@ -28,7 +28,7 @@
 |--------|-------------|
 | [LuckyoneUI](https://github.com/Luckyone961/LuckyoneUI) | ElvUI plugin and layout installer for minimalistic profiles |
 | [WeakAuras](https://wago.io/p/Luckyone) | A big pool of Class- and Utility WeakAuras for most WoW versions |
-| [ChatBubbleReplacements](https://github.com/Luckyone961/ChatBubbleReplacements) | Texture replacement for WoW chat bubbles (Works in protected areas such as Dungeons and Raids) |
+| [ChatBubbleReplacements](https://github.com/Luckyone961/ChatBubbleReplacements) | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
 | [WoW Performance Optimization](https://github.com/tukui-org/ElvUI/wiki/performance-optimization) | Guides to improve general performance and FPS of your WoW and AddOns |
 | [WindowsChecklist](https://github.com/Luckyone961/WindowsChecklist) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
 | [Website](https://luckyone.dev) | Main showcase for my current user interface and quick access to all important links |
