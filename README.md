@@ -18,9 +18,9 @@
 
 ### 📌 About Me
 
-- 🧙‍♂️ UI/UX Designer for World of Warcraft
+- 🧙‍♂️ UI/UX Creator for World of Warcraft
 - 🎥 Creating guides, videos & helpful tools
-- 💬 Always happy to help on [Discord](https://discord.gg/xRY4bwA)
+- 💬 Always happy to help on [Discord](https://discord.luckyone.dev)
 
 ### 📦 My Projects
 
